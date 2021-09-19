@@ -538,7 +538,7 @@ MonoBehaviour:
     type: 3}
   corridorFloorPrefab: {fileID: 1956282064550222334, guid: 3394a408753d7084fa3a5f6c2f82ed14,
     type: 3}
-  corridorWallPrefab: {fileID: 8587853897269320152, guid: 7e23e3dc6062f7a48842cef9783005cb,
+  corridorWallPrefab: {fileID: 1943669331519550254, guid: 56f1f38fbbb1f5549bcdc4457f20ee41,
     type: 3}
   corridorFenceDoorPrefab: {fileID: 8587853897269320152, guid: 1ced7e8eca67a2a4b9e1f07cdbad1375,
     type: 3}
