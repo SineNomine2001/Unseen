@@ -34,36 +34,36 @@ MonoBehaviour:
   m_RenderScale: 1
   m_MainLightRenderingMode: 1
   m_MainLightShadowsSupported: 1
-  m_MainLightShadowmapResolution: 2048
+  m_MainLightShadowmapResolution: 1024
   m_AdditionalLightsRenderingMode: 1
-  m_AdditionalLightsPerObjectLimit: 7
+  m_AdditionalLightsPerObjectLimit: 8
   m_AdditionalLightShadowsSupported: 1
-  m_AdditionalLightsShadowmapResolution: 512
-  m_AdditionalLightsShadowResolutionTierLow: 128
-  m_AdditionalLightsShadowResolutionTierMedium: 256
-  m_AdditionalLightsShadowResolutionTierHigh: 512
+  m_AdditionalLightsShadowmapResolution: 4096
+  m_AdditionalLightsShadowResolutionTierLow: 512
+  m_AdditionalLightsShadowResolutionTierMedium: 512
+  m_AdditionalLightsShadowResolutionTierHigh: 1024
   m_ReflectionProbeBlending: 0
-  m_ReflectionProbeBoxProjection: 0
-  m_ShadowDistance: 9015
+  m_ReflectionProbeBoxProjection: 1
+  m_ShadowDistance: 128
   m_ShadowCascadeCount: 4
   m_Cascade2Split: 0.36688316
   m_Cascade3Split: {x: 0.1, y: 0.3}
   m_Cascade4Split: {x: 0.11452221, y: 0.3462546, z: 0.7019869}
   m_CascadeBorder: 0.1
-  m_ShadowDepthBias: 1.41
-  m_ShadowNormalBias: 0.75
-  m_SoftShadowsSupported: 1
-  m_AdditionalLightsCookieResolution: 2048
+  m_ShadowDepthBias: 0.05
+  m_ShadowNormalBias: 0.05
+  m_SoftShadowsSupported: 0
+  m_AdditionalLightsCookieResolution: 4096
   m_AdditionalLightsCookieFormat: 3
   m_UseSRPBatcher: 1
   m_SupportsDynamicBatching: 0
-  m_MixedLightingSupported: 1
+  m_MixedLightingSupported: 0
   m_SupportsLightLayers: 0
   m_DebugLevel: 0
   m_UseAdaptivePerformance: 1
-  m_ColorGradingMode: 0
+  m_ColorGradingMode: 1
   m_ColorGradingLutSize: 32
-  m_UseFastSRGBLinearConversion: 0
+  m_UseFastSRGBLinearConversion: 1
   m_ShadowType: 1
   m_LocalShadowsSupported: 0
   m_LocalShadowsAtlasResolution: 256

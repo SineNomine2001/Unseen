@@ -78,13 +78,13 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.93333334, g: 0.8980392, b: 0.80784315, a: 0}
-  m_Intensity: 0.3
-  m_Range: 10
-  m_SpotAngle: 100
-  m_InnerSpotAngle: 0
+  m_Intensity: 0.25
+  m_Range: 3
+  m_SpotAngle: 150
+  m_InnerSpotAngle: 100
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -120,7 +120,7 @@ Light:
   m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
+  m_BounceIntensity: 0
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 3.4e-44, z: 0, w: 1e-45}
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Version: 1
   m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 0
+  m_AdditionalLightsShadowResolutionTier: 2
   m_LightLayerMask: 1
   m_CustomShadowLayers: 0
   m_ShadowLayerMask: 1
@@ -562,13 +562,13 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.9339623, g: 0.8969461, b: 0.8076718, a: 0}
-  m_Intensity: 0.1
-  m_Range: 1.5
+  m_Intensity: 0.25
+  m_Range: 3
   m_SpotAngle: 179
-  m_InnerSpotAngle: 100
+  m_InnerSpotAngle: 150
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -626,7 +626,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Version: 1
   m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 0
+  m_AdditionalLightsShadowResolutionTier: 2
   m_LightLayerMask: 1
   m_CustomShadowLayers: 0
   m_ShadowLayerMask: 1
